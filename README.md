@@ -3,10 +3,12 @@
 Test code for the Adafruit M0 RFM69 Feather board
 
 https://github.com/infrapale/T2310_RFM69_TxRx
+
 https://learn.sparkfun.com/tutorials/rfm69hcw-hookup-guide/all
 
 
 Messages from Rx
+
   <#XuFabcdef..>\n
     X = RFM69 radio 
     u = unit address 0..7 
